@@ -1,0 +1,1 @@
+/home/beshoy/scandiweb-work/temp_scandi_test/scandi-test/vendor/magento/theme-frontend-blank/Magento_Theme/web/js/theme.js
